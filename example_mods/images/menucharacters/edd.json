@@ -1,0 +1,11 @@
+{
+	"idle_anim": "EddIdle",
+	"image": "menu_edd",
+	"position": [
+		37,
+		147
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": ""
+}

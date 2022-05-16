@@ -1,0 +1,6 @@
+{
+	"name": "FNF ONLINE VS MIXED PACK",
+	"description": "All the challenges of FNF ONLINE VS ported to Psych Engine (this will restart the game)",
+	"restart":true,
+	"color": [255, 288, 0]
+}
