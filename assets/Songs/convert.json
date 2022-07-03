@@ -1,2 +1,7 @@
-ogg-mp3
-mp3-ogg
+if desktop  + if (audio == mp3) {
+  Convert(ogg)
+}
+
+if web + if (audio == ogg) {
+  convert(mp3)
+}
